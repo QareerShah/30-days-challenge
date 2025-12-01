@@ -21,8 +21,8 @@ Gemini 3 Pro mein multimodal reasoning kaafi behter hai: text + image + video + 
 
 **Before Enable:**
 
-![Before Enable](images/before-enable.png)
+![Before Enable](/images/before-enable.PNG)
 
 **After Enable:**
 
-![After Enable](images/after-enable.png)
+![After Enable](/images/after-enable.PNG)
